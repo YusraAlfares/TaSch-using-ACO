@@ -60,9 +60,9 @@ To run the full ACO optimization and analyze performance:
 
 python task_scheduler_aco.py
 
-Generating Custom Input Files
+Generating Random Input Files
 
-To generate a custom task-VM execution time file:
+To generate a random task-VM execution time file:
 
 python generate_input_file.py
 
